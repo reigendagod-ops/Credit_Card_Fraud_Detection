@@ -1,0 +1,21 @@
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# Python cache & bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data files (optional - comment out if you want to include raw dataset)
+# credit_card_transactions.csv
+
+# Large binaries / models (optional)
+# model_assets.pkl
+
+# IDE / OS specific files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
